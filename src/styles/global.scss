@@ -15,6 +15,21 @@
   --yellow-500: #EBA417;
 }
 
+// font-reset for REM
+// TABLET
+@media (max-width: 1080px) {
+  html {
+    font-size: 93.75%; // 15px
+  }
+}
+
+// MOBILE
+@media (max-width: 720px) {
+  html {
+    font-size: 87.5%; // 14px
+  }
+}
+
 body {
   background: var(--gray-900);
   color: var(--white);
