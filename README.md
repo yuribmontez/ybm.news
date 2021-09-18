@@ -8,7 +8,7 @@
 
 # 💻 About
 
-Letmeask is perfect for content creators to create Q&A rooms with their audience in a very organized and democratic way.
+ybm.news is a subscription based blog about ReactJS and other programming news.
 
 This project was developed during **[Next Level Week Together](https://nextlevelweek.com/)**, presented from the 20th to the 27th of June 2021.
 
