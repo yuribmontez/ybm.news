@@ -1,34 +1,76 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img alt="ybm.news" src="public/images/logo-ybm.svg" width="400px">
+</p>
 
-## Getting Started
+<p align="center">
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">
+</p>
 
-First, run the development server:
+# 💻 About
+
+Letmeask is perfect for content creators to create Q&A rooms with their audience in a very organized and democratic way.
+
+This project was developed during **[Next Level Week Together](https://nextlevelweek.com/)**, presented from the 20th to the 27th of June 2021.
+
+<!-- ![](COVER HERE) -->
+
+<br>
+
+## 🧪 Tecnologies
+
+This project was developed using cutting edge front-end technologies.
+
+- [NextJS](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [SASS](https://sass-lang.com/)
+- [Next-Auth](https://next-auth.js.org/)
+- [Stripe](https://stripe.com/)
+- [FaunaDB](https://fauna.com/)
+- [Prismic CMS](https://prismic.io/)
+
+<br />
+
+## ✅ To run this project you'll need:
+
+- [Yarn](https://yarnpkg.com) or [Node](https://nodejs.org/en/)
+- [Stripe CLI](https://stripe.com/docs/stripe-cli)
+- Create your services settings. More info on [Services Config](SERVICES_CONFIG.md)
+
+<br />
+
+### 🚀  Getting started
+
+Clone the project and access the folder
 
 ```bash
-npm run dev
-# or
-yarn dev
+$ git clone https://github.com/yuribmontez/ybm.news
+$ cd ybm.news
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Follow the steps below
+```bash
+# Install the dependencies
+$ yarn
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+#Set your environment variables following the .env.example structure
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# Run project
+$ yarn dev
+```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 🔖 Layout
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+You can checkout the project layout [HERE](https://www.figma.com/file/gl0fHkQgvaUfXNjuwGtDDs/ig.news/duplicate).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+You need to have an account at [Figma](http://figma.com/).
 
-## Deploy on Vercel
+## 📝 License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is licensed under the MIT License - see the  [LICENSE](LICENSE.md) file for details.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+<p align="center">
+    Made with 💜 by Yuri Bruno Montez (ybm)
+</p>
