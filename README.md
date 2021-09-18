@@ -16,12 +16,12 @@ This project was developed during **[Next Level Week Together](https://nextlevel
 
 Home          |  Posts
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/77989191/133900296-275d0ab1-b744-4f01-a14d-f4941b752d67.png)  |  ![](https://user-images.githubusercontent.com/77989191/133900702-1089dab0-bec4-4d9f-b759-48e316dd2f15.png)
+![](https://user-images.githubusercontent.com/77989191/133900296-275d0ab1-b744-4f01-a14d-f4941b752d67.png)  |  ![](https://user-images.githubusercontent.com/77989191/133905119-9f14ee85-52db-423f-9fba-671703324453.png)
 
 
 Post with active subscription          |  Post without subscription
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/77989191/133900917-bea989df-63d6-4f24-856f-d0e60edfad05.png)  |  ![](https://user-images.githubusercontent.com/77989191/133901040-91ca228e-254e-4b86-a280-7da454ebf142.png)
+![](https://user-images.githubusercontent.com/77989191/133905116-cb0204b0-5c52-4fd7-8dfc-18ef3c33fcb3.png)  |  ![](https://user-images.githubusercontent.com/77989191/133905120-76c1e0de-120e-4d50-9892-2075340ef614.png)
 
 ## 🧪 Tecnologies
 
