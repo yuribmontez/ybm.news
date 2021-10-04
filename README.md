@@ -8,13 +8,20 @@
 
 # 💻 About
 
-Letmeask is perfect for content creators to create Q&A rooms with their audience in a very organized and democratic way.
+ybm.news is a subscription based blog about ReactJS and other programming news.
 
 This project was developed during **[Next Level Week Together](https://nextlevelweek.com/)**, presented from the 20th to the 27th of June 2021.
 
-<!-- ![](COVER HERE) -->
+![](https://user-images.githubusercontent.com/77989191/133898609-aa497d09-bfa8-4fbf-886f-24c7d1de5a69.png)
 
-<br>
+Home          |  Posts
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/77989191/133900296-275d0ab1-b744-4f01-a14d-f4941b752d67.png)  |  ![](https://user-images.githubusercontent.com/77989191/133905119-9f14ee85-52db-423f-9fba-671703324453.png)
+
+
+Post with active subscription          |  Post without subscription
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/77989191/133905116-cb0204b0-5c52-4fd7-8dfc-18ef3c33fcb3.png)  |  ![](https://user-images.githubusercontent.com/77989191/133905120-76c1e0de-120e-4d50-9892-2075340ef614.png)
 
 ## 🧪 Tecnologies
 
@@ -28,15 +35,11 @@ This project was developed using cutting edge front-end technologies.
 - [FaunaDB](https://fauna.com/)
 - [Prismic CMS](https://prismic.io/)
 
-<br />
+## ✅ Requirements:
 
-## ✅ To run this project you'll need:
-
-- [Yarn](https://yarnpkg.com) or [Node](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com)/[Node](https://nodejs.org/en/)
 - [Stripe CLI](https://stripe.com/docs/stripe-cli)
 - Create your services settings. More info on [Services Config](SERVICES_CONFIG.md)
-
-<br />
 
 ### 🚀  Getting started
 
@@ -57,8 +60,6 @@ $ yarn
 # Run project
 $ yarn dev
 ```
-
-
 
 ## 🔖 Layout
 
